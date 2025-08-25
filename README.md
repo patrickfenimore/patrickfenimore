@@ -49,8 +49,8 @@ Prompt system that creates A/B test–ready ad headlines, email subject lines, a
 
 ## 📫 Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/patrickfenimore)  
-- 📄 [Resume](https://linkedin.com/in/patrickfenimore) *(can link to PDF or Notion page)*  
+- 📄 [Resume](https://github.com/patrickfenimore/resume) 
 - 📧 **pfenimore@cox.net**  
 
-> Short profile bio: *“Product leader exploring Generative AI for discovery, marketing workflows, and practical prototypes.”*
+
 
