@@ -4,7 +4,7 @@
 ![Location](https://img.shields.io/badge/Base-San%20Diego%2C%20CA-lightgrey)  
 ![Certs](https://img.shields.io/badge/Certs-CSPO%20%7C%20CSM%20%7C%20Pragmatic-blueviolet)  
 
-I’m a **Product Marketing & Product Management leader** with 15+ years across SaaS, telecom, and video services.  
+I’m a **Product Marketing & Product Management leader** with 15+ years across telecom and video services.  
 Now, I focus on **Generative AI workflows** that speed discovery, help go-to-market teams, and support quick prototypes.  
 
 ---
